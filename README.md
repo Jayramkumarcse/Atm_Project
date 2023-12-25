@@ -1,2 +1,2 @@
 # Atm_Project
-This atm project of java source code
+This is  ATM  project of java source code 
